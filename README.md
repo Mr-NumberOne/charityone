@@ -1,3 +1,2 @@
-# charity-frontend-app-web3
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Mr-NumberOne/charity-frontend-app-web3)
+# Charity One
+This is a frontend of Web3 Application, as a part of a final project for The Arabic Blockchain Developer Bootcamp by Blokkat
